@@ -1,2 +1,2 @@
-# number_guess_game_ver.4
+# number_guess_game
 A simple numbers guessing game written in Python
